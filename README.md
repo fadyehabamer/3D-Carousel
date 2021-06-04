@@ -1,2 +1,2 @@
 # 3D-carousel
-### using Swiper.js
+> Swiper.js
